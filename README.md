@@ -18,5 +18,6 @@ the us_arrests_captone.ipynb
 
 Which PCA columns are used could be changed to yield different results from the program, as well as the value of k.
 
-![PCA Columns](PCA_Columns)
-![Values of K](Values_of_K)
+![PCA Columns](PCA_Columns.png)
+
+![Values of K](Values_of_K.png)
