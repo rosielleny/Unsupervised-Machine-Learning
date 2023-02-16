@@ -11,7 +11,7 @@ features is difficult. A further analysis with more detailed data to investigate
 
 *Installation*
 
-An code editor able to read .ipynb files can be used to run the program, and the UsArrests.csv will need to be in the same folder as 
+A code editor able to read .ipynb files can be used to run the program, and the UsArrests.csv will need to be in the same folder as 
 the us_arrests_captone.ipynb
 
 *Usage*
